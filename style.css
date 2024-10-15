@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(250,200,25,.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    min-height: 100vh;
+    color: rgb(221, 224, 4);
+    font-weight: 800;
+    font-family: sans-serif;
+
+
+}
+.container{
+    text-align: center;
+    padding: 30px;
+    background-color: darkolivegreen;
+    width: 50%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0 rgba(255, 255, 255, .2);
+}
+
+.inpt{
+    margin: 10px;
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    text-align: center;
+
+}
+.head{
+    font-size: 40px;
+    color: rgb(221, 224, 4);
+}
